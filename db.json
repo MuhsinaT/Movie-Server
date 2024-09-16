@@ -1,0 +1,25 @@
+{
+  "Movies": [
+    {
+      "title": "charlie",
+      "language": "malayalam",
+      "year": "2021",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Charlie_2015-Malayalam_film_poster.jpg",
+      "id": 4
+    },
+    {
+      "title": "home",
+      "language": "malayalam",
+      "year": "2021",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWU1ZmNlYTctYmY1My00ZDlmLTk3M2EtZDcxY2E1ZGU0N2YzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+      "id": 5
+    },
+    {
+      "title": "vaazha",
+      "language": "Malayalam",
+      "year": "2024",
+      "imageUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha--biopic-of-a-billion-boys-et00405504-1721571939.jpg",
+      "id": 6
+    }
+  ]
+}
